@@ -1,0 +1,8 @@
+cl\minsal\centros\conf\RestConfiguration.class
+cl\minsal\centros\model\Centro.class
+cl\minsal\centros\init\WebAppConfig.class
+cl\minsal\centros\model\Respuesta.class
+cl\minsal\centros\repository\CentroRepository.class
+cl\minsal\centros\conf\SwaggerConfiguration.class
+cl\minsal\centros\init\Initializer.class
+cl\minsal\centros\controller\CentrosController.class
